@@ -6,7 +6,7 @@ Config = {
             {label = "Aperol Spritz", name = 'aperolspritz'},
             {label = "Piña Colada", name = 'pinacolada'},
             {label = "Soupe Angevine", name = 'soupeangevine'},
-            {label = "Bière", name = 'margarita'},
+            {label = "Margarita", name = 'margarita'},
             {label = "Blue Hawaii", name = 'bluehawaii'},
         },
         Pos = {
